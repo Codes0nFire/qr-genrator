@@ -1,0 +1,1 @@
+Hey developers 😁, this a webpage which generates qr code based on your input url , go add your url and have your qr 😉
